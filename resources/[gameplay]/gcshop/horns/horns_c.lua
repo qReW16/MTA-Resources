@@ -501,7 +501,7 @@ hornsTable = {
     [497] = "Dummy",
     [498] = "+18",
     [499] = "Taksim",
-    
+    [500] = "Turk Wolfs",
     
  
 }
